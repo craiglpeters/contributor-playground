@@ -6,6 +6,11 @@ This repository will be used as a safe space for participants in the New Contrib
 
 A [Youtube playlist](https://www.youtube.com/playlist?list=PL69nYSiGNLP3M5X7stuD7N4r3uP2PZQUx) of the New Contributor workshop has been posted, and an outline of content to videos can be found [here](http://git.k8s.io/community/events/2018/05-contributor-summit).
 
+## Start here
+
+You can either [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=145908919) or
+Fork the repository for yourself
+
 ## Community, discussion, contribution, and support
 
 Learn how to engage with the Kubernetes community on the [community page](http://kubernetes.io/community/).
